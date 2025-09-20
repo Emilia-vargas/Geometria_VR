@@ -3,8 +3,10 @@
 __Visualización 4D__
 
 https://www.youtube.com/watch?v=4URVJ3D8e8k
+> Video sobre maneras de pensar hiperesferas, hiperconos e hipercubos. 
   
-https://www.youtube.com/watch?v=S-yRYmdsnGs&t=335s
+<img src="https://www.vive.com/media/filer_public/vive/open-graph/homepage.jpg" width="50px"> https://www.youtube.com/watch?v=S-yRYmdsnGs&t=335s
+> Video que explica a profundidad cómo conceptualizar un hipercubo utilizando realidad virtual con Vive VR. 
 
 __Visualización de espacios no euclidianos:__
 
