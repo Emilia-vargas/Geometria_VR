@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=lFEIUcXCEvI
 
 ## Introducción
 https://www.math3dgeovr.p.lodz.pl/results/Learning_Materials_EN.pdf
+> Documento co-fundado por la Unión Europea que presenta modelos matemáticos para la enseñanza de geometría tridimensional mediante realidad virtual.
 
 https://www.geogebra.org/m/dfc8ttzn
 > Visualización del error en la "demostración" realizada en [este](https://www.youtube.com/watch?v=Yajonhixy4g) video. El ejercicio es que los alumnos busquen por qué la demostración presentada no es válida. En esta visualización se puede ver que el dibujo usado en el video no siempre es correcto y que no siempre se cumple que los puntos B* y C* estén fuera del triángulo. Pueden interactuar con los vértices del triángulo y ver como cambia la posición de varios puntos de la construcción dependiendo de la forma del triángulo.
@@ -31,33 +32,42 @@ https://www.geogebra.org/m/dfc8ttzn
 
 
 ## Trigonometría	
+https://immersivemath.com/ila/ch01_introduction/ch01.html
+> Página web interactiva que introduce conceptos trigonométricos
+
 https://www.geogebra.org/m/b7XGeNpz#material/h6nuGYPW
 > Círculo unitario en geogebra
-
-https://immersivemath.com/ila/ch01_introduction/ch01.html
->
 
 https://www.frro.utn.edu.ar/repositorio/secretarias/sac/ingreso/archivos/Unidad_4_matematica.pdf
 > Se trata de un compendio de ejercicios básicos.
 
 https://fqm193.ugr.es/media/grupos/FQM193/cms/TFM_(Fco_Javier_Fernandez_Medina).pdf
->Trabajo de investigación sobre Trigonometría como unidad didáctica. Incluye ejercicios y materiales, así como análisis de su aplicación.
+> Trabajo de investigación sobre Trigonometría como unidad didáctica. Incluye ejercicios y materiales, así como análisis de su aplicación.
 
 ## Espacios vectoriales básicos
 <img src="https://is301.com/wp-content/uploads/2017/12/04_Oculus-Full-Lockup-Vertical-Black.png" width="50px"> https://www.youtube.com/watch?v=6MkUTf5u1FA
 > Video demo de una herramienta de VR para Meta 3S que introduce fundamentos de álgebra lineal y desarrollada por San Jose State University. Permite manipular interactivamente vectores para visualizarlos en R3.
 
-https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=2WL1S1w-bH-ilvWI
->
-
 https://immersivemath.com/ila/ch02_vectors/ch02.html
-> 
+> Es una pagina web interactiva para que los alumnos se familiaricen con vectores y lo que implican en sus espacios.
+
+https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=2WL1S1w-bH-ilvWI
+> Lista de reproducción de videos de 3Blue1Brown donde se explica lo escencial de álgebra lineal. Es interesante porque perimte ver de dónde salen algunos objetos y que los conceptos aprendidos en esta materia son fundamentales para entender las siguientes areas por estudiar.
 
 ## Rectas, Planos, Semiplanos y semiespacios
 https://immersivemath.com/ila/ch03_dotproduct/ch03.html
-> 
+> Se trata de una página interactiva que apoya una intuición sobre el producto punto.
+
+https://www.fceia.unr.edu.ar/~vittone/geometria_1/Unidad12016.pdf
+> Documento con teoría y ejercicios respecto al subtema
+
+https://mathsandyou.com/que-es-un-semiplano-en-geometria/
+> Página web que explica con gran detalle y familiaridad lo que es un semiplano
 
 ## Cónicas
+https://www.youtube.com/watch?v=4KHCuXN2F3I
+> Video del canal Numberphile, dónde se construye una mesa de billar elíptica. Con ella se muestran conceptos y propiedades como excentricidad y puntos focales.
+
 https://www2.ual.es/neotrie/
 > Es una plataforma de realidad virtual educativa que permite visualizar, manipular y crear figuras geométricas en 3D.
 
