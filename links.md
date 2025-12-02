@@ -12,7 +12,7 @@ __Visualización de espacios no euclidianos:__
 
 https://www.youtube.com/watch?v=bQSfzDugH7s
 https://www.roguetemple.com/z/hyper/rogueviz.php
-> Recorrido en 360 VR que te lleva por portales a epacios no euclidianos. Más información de los desarrolladores y otros juegos se pueden ver desde su página
+> Recorrido en 360 VR que te lleva por portales a espacios no euclidianos. Más información de los desarrolladores y otros juegos se puede ver desde su página.
  
 https://www.youtube.com/watch?v=zQo_S3yNa2w
 > Video sobre el juego Hyperbolica. Maneras de entender espacios curvos, en geometrias hiperbólicas y esféricas. 
